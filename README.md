@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=BaeDongHyeon&theme=tokyonight"/></a>
-<a align="right" href="https://github.com/anuraghazra/github-readme-stats"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaeDongHyeon&layout=compact&theme=tokyonight"/></a>
-<a href="https://solved.ac/sasd730"><img style="height:195px" src="http://mazassumnida.wtf/api/generate_badge?boj=sasd730"/></a>
+<p>
+<a float="left" href="https://github.com/anuraghazra/github-readme-stats"><img style="width:420px;height:180px" src="https://github-readme-stats.vercel.app/api?username=BaeDongHyeon&theme=tokyonight"/></a>
+<a float="right" href="https://github.com/anuraghazra/github-readme-stats"><img style="width:420px;height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaeDongHyeon&layout=compact&theme=tokyonight"/></a>
+</p>
+<a href="https://solved.ac/sasd730"><img style="width:420px;height:195px" src="http://mazassumnida.wtf/api/generate_badge?boj=sasd730"/></a>
 
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>
