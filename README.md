@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeDongHyeon&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:400px;height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaeDongHyeon&layout=compact&theme=tokyonight"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaeDongHyeon&layout=compact&theme=tokyonight"/></a>
 <a href="https://solved.ac/sasd730"><img style="width:450px;height:195px" src="http://mazassumnida.wtf/api/generate_badge?boj=sasd730"/></a>
 
 ### 🛠 Languages and Tools
